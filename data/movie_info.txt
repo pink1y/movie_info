@@ -1,0 +1,1636 @@
+{
+    "imdb_id": "tt2631186",
+    "title": {
+        "hk": "\u5df4\u970d\u5df4\u5229\u738b",
+        "ch": "\u5df4\u970d\u5df4\u5229\u738b(\u4e0a)\uff1a\u5f00\u7aef",
+        "en": "Baahubali: The Beginning"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u52a8\u4f5c",
+        "\u6218\u4e89",
+        "\u5947\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt0303714",
+    "title": {
+        "hk": "",
+        "ch": "\u54c8\u5566\u5927\u53d1\u5e08",
+        "en": "Barbershop"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u559c\u5267",
+        "\u5267\u60c5"
+    ]
+}{
+    "imdb_id": "tt0078504",
+    "title": {
+        "hk": "\u7eff",
+        "ch": "\u65b0\u7eff\u91ce",
+        "en": "The Wiz"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u5192\u9669",
+        "\u5bb6\u5ead",
+        "\u5947\u5e7b",
+        "\u6b4c\u821e"
+    ]
+}{
+    "imdb_id": "tt4731136",
+    "title": {
+        "hk": "\u6cbb",
+        "ch": "\u6551\u547d\u89e3\u836f",
+        "en": "A Cure for Wellness"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5380bb4/sid-teGCWQ7ZIUb3AqjOPV5CpGBfOAa/sub/7008660",
+    "movie_type": [
+        "\u60ac\u7591",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt2345759",
+    "title": {
+        "hk": "\u76d7\u5893\u8ff7\u57ce",
+        "ch": "\u65b0\u6728\u4e43\u4f0a",
+        "en": "The Mummy"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5390bb5/sid-nBVe8bNFyLjKZVOe3V-tCq3,Hq7/sub/7070464",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u5947\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt0058700",
+    "title": {
+        "hk": "Night Creatu",
+        "ch": "\u5730\u7403\u6700\u540e\u4e00\u4eba",
+        "en": "The Last Man on Earth"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u6050\u6016",
+        "\u79d1\u5e7b",
+        "\u5267\u60c5"
+    ]
+}{
+    "imdb_id": "tt3862750",
+    "title": {
+        "hk": "\u5b8c\u7f8e\u7537\u4eba",
+        "ch": "\u5b8c\u7f8e\u5bb6\u4f19",
+        "en": "The Perfect Guy"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt3659388",
+    "title": {
+        "hk": "\u706b\u661f\u4efb\u52a1",
+        "ch": "\u706b\u661f\u6551\u63f4",
+        "en": "The Martian"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5400bb2/sid-SshK699xnpzC2SlFWdksPfnvsw0/sub/6346411",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt1821480",
+    "title": {
+        "hk": "\u8ffd\u51fb\u6795\u8fb9\u8c1c",
+        "ch": "\u65e0\u754f\u4e4b\u5fc3",
+        "en": "Kahaani"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f55e0bbe/sid-V0hIS3wqAOSGc5Ux1Zj9ZKBfGR0/sub/5953168",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt0119303",
+    "title": {
+        "hk": "\u72ec\u81ea",
+        "ch": "\u5c0f\u9b3c\u5f53\u5bb63",
+        "en": "Home Alone"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5650bb8/sid-zaoGOL,Bf7CnDzEPEIYFJoqsVvd/sub/5956600",
+    "movie_type": [
+        "\u559c\u5267"
+    ]
+}{
+    "imdb_id": "tt2872518",
+    "title": {
+        "hk": "\u5929\u5802\u5c0f\u5c4b",
+        "ch": "\u964b\u5ba4",
+        "en": "The Shack"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f52d0bb5/sid-iIajil9D2QV9TXSZmEDA8KS97Ud/sub/7040386",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u5947\u5e7b"
+    ]
+}{
+    "imdb_id": "tt1582271",
+    "title": {
+        "hk": "\u51f6\u5fc3\u4ec1\u672f",
+        "ch": "\u597d\u533b\u751f",
+        "en": "The Good Doctor"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5670bbc/sid-pwFz0eNbW8Pp8cYNkGc-mvGJ8E3/sub/7199612",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt1060277",
+    "title": {
+        "hk": "\u672b\u4e16\u51f6\u715e",
+        "ch": "\u79d1\u6d1b\u5f17\u6863\u6848",
+        "en": "Cloverfield"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5730bc0/sid-CJjR4EyqZrwYhi28A4zn87p,BSa/sub/5958282",
+    "movie_type": [
+        "\u79d1\u5e7b",
+        "\u60ac\u7591",
+        "\u60ca\u609a",
+        "\u707e\u96be"
+    ]
+}{
+    "imdb_id": "tt0369610",
+    "title": {
+        "hk": "\u4f8f\u7f57\u7eaa",
+        "ch": "\u4f8f\u7f57\u7eaa\u4e16\u754c",
+        "en": "Jurassic World"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f52f0bb5/sid-Rp9h44iR7nwepIFAZh-0IIQ6UJd/sub/6231295",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt2461132",
+    "title": {
+        "hk": "\u5b9d\u83b1\u575e\u4e4b\u821e\u6797\u5927\u76d7",
+        "ch": "\u65b0\u5e74\u884c\u52a8",
+        "en": "Happy New Year"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5480bb7/sid-LotuI8mR5OM5P45XggmJpIuilZ7/sub/6077604",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u52a8\u4f5c",
+        "\u7231\u60c5",
+        "\u72af\u7f6a"
+    ]
+}{
+    "imdb_id": "tt0107688",
+    "title": {
+        "hk": "\u602a\u8bde",
+        "ch": "\u5723\u8bde\u591c\u60ca\u9b42",
+        "en": "The Nightmare Before Christmas"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f55e0bc1/sid-1ZWVDua7jGRcmVBqtRrAEXl-MV5/sub/6740788",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u52a8\u753b",
+        "\u5947\u5e7b"
+    ]
+}{
+    "imdb_id": "tt4630562",
+    "title": {
+        "hk": "\u72c2\u91ce\u65f6\u901f8",
+        "ch": "\u901f\u5ea6\u4e0e\u6fc0\u60c58",
+        "en": "The Fast and the Furious"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5860bc3/sid-0An,f51Gq9YgxpMEJVYHhDkxVR1/sub/6983970",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u72af\u7f6a"
+    ]
+}{
+    "imdb_id": "tt2241351",
+    "title": {
+        "hk": "\u51f6\u94b1\u76f4\u51fb",
+        "ch": "\u91d1\u94b1\u602a\u517d",
+        "en": "Money Monster"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5550bb9/sid-dZNib40,aoyR,J4IKSgMjTDZ2fe/sub/6706832",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u72af\u7f6a",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt1386697",
+    "title": {
+        "hk": "X",
+        "ch": "\u81ea\u6740\u5c0f\u961f",
+        "en": "Suicide Squad"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5350bb0/sid-XfHyBDkUytXbtEpTgOazcGpPzc9/sub/6802115",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u72af\u7f6a",
+        "\u5947\u5e7b"
+    ]
+}{
+    "imdb_id": "tt4425200",
+    "title": {
+        "hk": "\u6740\u795eJohn Wick 2",
+        "ch": "\u75be\u901f\u7279\u653b",
+        "en": "John Wick: Chapter 2"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5200baf/sid-,7t6yyQgccbj68aVpLlUzkNCoj2/sub/7004272",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u72af\u7f6a",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt1392190",
+    "title": {
+        "hk": "\u672b\u65e5\u5148\u950b\uff1a\u6218\u7532\u98de\u8f66",
+        "ch": "\u75af\u72c2\u7684\u9ea6\u514b\u65af4\uff1a\u72c2\u66b4\u4e4b\u8def",
+        "en": "Mad Max: Fury Road"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5350bb3/sid-,oS9Q6ostsZthBYAOrYuc30hhL4/sub/6215813",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt1340138",
+    "title": {
+        "hk": "\u7ec8",
+        "ch": "\u7ec8\u7ed3\u8005\uff1a\u521b\u4e16\u7eaa",
+        "en": "Terminator"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5440bbc/sid-3Q7M3luv-eS-Q3eNt9CaQs8JAZ0/sub/6232886",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt1305806",
+    "title": {
+        "hk": "\u4ed6\u4eec\u773c\u4e2d",
+        "ch": "\u8c1c\u4e00\u6837\u7684\u53cc\u773c",
+        "en": "The Secret in Their Eyes"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u7231\u60c5",
+        "\u60ac\u7591"
+    ]
+}{
+    "imdb_id": "tt2338151",
+    "title": {
+        "hk": "\u5916\u661f\u9189\u6c49PK",
+        "ch": "\u6211\u7684\u4e2a\u795e\u554a",
+        "en": "PK"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5460bbc/sid-XPXz-Kf-K5j9-hdGBXnZd7cDXT8/sub/6182279",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u5947\u5e7b"
+    ]
+}{
+    "imdb_id": "tt2465238",
+    "title": {
+        "hk": "\u4e50\u9ad8\u8759\u8760\u4fa0",
+        "ch": "\u4e50\u9ad8\u8759\u8760\u4fa0\u5927\u7535\u5f71\uff1aDC\u82f1\u96c4\u96c6\u7ed3",
+        "en": "Lego Batman: The Movie \u2013 DC Super Heroes Unite"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5230bae/sid-avDfx,KY0L23cHipFXFnOtzoYm7/sub/5008710",
+    "movie_type": [
+        "\u52a8\u753b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt2543472",
+    "title": {
+        "hk": "",
+        "ch": "\u5947\u8ff9\u7537\u5b69",
+        "en": "Wonder"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5730bc0/sid-MzTZu8szfdwDytqyy2uK7CBgHg5/sub/5955690",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u513f\u7ae5",
+        "\u5bb6\u5ead"
+    ]
+}{
+    "imdb_id": "tt1823672",
+    "title": {
+        "hk": "\u8d85\u4eba\u7c7b\uff1a\u5353\u6bd4",
+        "ch": "\u8d85\u80fd\u67e5\u6d3e",
+        "en": "Chappie"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5470bb8/sid-Bdj63rgce6ojBIrEn4lfaXQayd9/sub/6181591",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt0993846",
+    "title": {
+        "hk": "\u534e\u5c14\u8857\u72fc\u4eba",
+        "ch": "\u534e\u5c14\u8857\u4e4b\u72fc",
+        "en": "The Wolf of Wall Street"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5600bba/sid-hC-4zfV4T0FnzMH,CNmW58Bu2jb/sub/5963343",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u559c\u5267",
+        "\u4f20\u8bb0",
+        "\u72af\u7f6a"
+    ]
+}{
+    "imdb_id": "tt2911666",
+    "title": {
+        "hk": "\u7ea6\u7ff0",
+        "ch": "\u75be\u901f\u8ffd\u6740",
+        "en": "John Wick"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5060ba7/sid--k9kHV8Pw3v2bmnWSu,uR3mHRs7/sub/6002132",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u72af\u7f6a",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt1349642",
+    "title": {
+        "hk": "",
+        "ch": "",
+        "en": "Me Facing Life: Cyntoia's Story"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u7eaa\u5f55\u7247"
+    ]
+}{
+    "imdb_id": "tt1661199",
+    "title": {
+        "hk": "\u4ed9\u5c65\u5947\u7f18(\u6e2f",
+        "ch": "\u7070\u59d1\u5a18",
+        "en": "Cinderella"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f56a0bc0/sid-o0qma5yixoWoX-L9CC2,vArTvwe/sub/5938356",
+    "movie_type": [
+        "\u7231\u60c5",
+        "\u5947\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt4786282",
+    "title": {
+        "hk": "\u5207\u52ff\u5173\u706f",
+        "ch": "\u5173\u706f\u540e",
+        "en": "Lights Out"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5340bb0/sid--XsO6hOh3H7,A-etDuBWSLzabc4/sub/7136231",
+    "movie_type": [
+        "\u6050\u6016"
+    ]
+}{
+    "imdb_id": "tt0092890",
+    "title": {
+        "hk": "\u70ed",
+        "ch": "\u8fa3\u8eab\u821e",
+        "en": "Dirty Dancing"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f57a0bc5/sid-exEPwu3Db2mEnEiLQAFCfV4w4Ke/sub/5947937",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u7231\u60c5"
+    ]
+}{
+    "imdb_id": "tt3300542",
+    "title": {
+        "hk": "\u767d\u5bab\u6ca6\u96772\uff1a\u4f26\u6566\u6ca6\u9677",
+        "ch": "\u4f26\u6566\u9677\u843d",
+        "en": "London Has Fallen"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5590bb9/sid-B,4YPpvxB7jS6g5uN06HR4CB-m9/sub/6648305",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u72af\u7f6a",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt2322441",
+    "title": {
+        "hk": "\u683c\u96f7\u7684\u4e94\u5341\u9053\u8272\u6212",
+        "ch": "\u4e94\u5341\u5ea6\u7070",
+        "en": "Fifty Shades of Grey"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f55c0bc1/sid-,rXuq4Jxfv3AdemAK8yaMSru2C9/sub/6453868",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u7231\u60c5",
+        "\u60c5\u8272"
+    ]
+}{
+    "imdb_id": "tt2403021",
+    "title": {
+        "hk": "\u98df\u4eba\u70bc\u72f1",
+        "ch": "\u7eff\u8272\u5730\u72f1",
+        "en": "The Green Inferno"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u5192\u9669",
+        "\u6050\u6016"
+    ]
+}{
+    "imdb_id": "tt3896198",
+    "title": {
+        "hk": "\u661f\u9645\u5f02\u653b\u961f2",
+        "ch": "\u94f6\u6cb3\u62a4\u536b\u961f2",
+        "en": "Guardians of the Galaxy Vol. 2"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5540bc0/sid-QGvjUYIQoei8PtqhAdLCmtZdgk0/sub/7075479",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt3460252",
+    "title": {
+        "hk": "\u51b0\u5929\u8840\u57308\u6076\u4eba",
+        "ch": "\u516b\u6076\u4eba",
+        "en": "The Hateful Eight"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5410bb3/sid-QaIlwJmaoU8KHwSGY,rAisiGv-9/sub/6541703",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u72af\u7f6a",
+        "\u897f\u90e8"
+    ]
+}{
+    "imdb_id": "tt0117705",
+    "title": {
+        "hk": "\u592a\u7a7a\u4e5f\u5165\u6a3d",
+        "ch": "\u7a7a\u4e2d\u5927\u704c\u7bee",
+        "en": "Space Jam"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u52a8\u753b",
+        "\u5192\u9669",
+        "\u559c\u5267",
+        "\u5bb6\u5ead",
+        "\u79d1\u5e7b",
+        "\u8fd0\u52a8"
+    ]
+}{
+    "imdb_id": "tt0800369",
+    "title": {
+        "hk": "\u96f7\u795e\u7d22\u5c14",
+        "ch": "\u96f7\u795e",
+        "en": "Thor"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f55a0bb6/sid-v8Awc8uCqH8c3IdxgyPJyNA1QH7/sub/5963402",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u5947\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt2179136",
+    "title": {
+        "hk": "",
+        "ch": "",
+        "en": "American Sniper"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f58d0bc6/sid-W1OrjggVdwmqp7C1qIpfek9vrU9/sub/5998725",
+    "movie_type": [
+        "\u4f20\u8bb0",
+        "\u52a8\u4f5c",
+        "\u6218\u4e89"
+    ]
+}{
+    "imdb_id": "tt3797868",
+    "title": {
+        "hk": "\u9009\u62e9",
+        "ch": "\u7231\u60c5\u7684\u9009\u62e9",
+        "en": "The Choice"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5480bbe/sid-b63AI99L0oF,PK91-k86ilXWzO4/sub/7136299",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u7231\u60c5"
+    ]
+}{
+    "imdb_id": "tt4832640",
+    "title": {
+        "hk": "\u6454\u8de4\u624b\u82cf\u4e39",
+        "ch": "\u82cf\u4e39",
+        "en": "Sultan"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u8fd0\u52a8"
+    ]
+}{
+    "imdb_id": "tt1446714",
+    "title": {
+        "hk": "\u5f02",
+        "ch": "\u666e\u7f57\u7c73\u4fee\u65af",
+        "en": "Prometheus"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f57d0bc5/sid-F5,vwLn4UOGrPUy4S7V3zCDI457/sub/5964974",
+    "movie_type": [
+        "\u79d1\u5e7b",
+        "\u60ca\u609a",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt0929632",
+    "title": {
+        "hk": "\u73cd\u7231\u4eba\u751f",
+        "ch": "\u73cd\u7231",
+        "en": "Precious"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5410bb6/sid-XBvY5GfBI8M-,m1gMOtOFF8QWP8/sub/6601943",
+    "movie_type": [
+        "\u5267\u60c5"
+    ]
+}{
+    "imdb_id": "tt0319343",
+    "title": {
+        "hk": "\u7cbe\u7075",
+        "ch": "\u5723\u8bde\u7cbe\u7075",
+        "en": "Elf"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f55e0bb6/sid-pCkouziC7HX-cmBbizoE7v99AO5/sub/5948210",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u5bb6\u5ead",
+        "\u5947\u5e7b"
+    ]
+}{
+    "imdb_id": "tt1121096",
+    "title": {
+        "hk": "\u7b2c\u4e03\u4f20\u4eba",
+        "ch": "\u7b2c\u4e03\u5b50\uff1a\u964d\u9b54\u4e4b\u6218",
+        "en": "Seventh Son"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5440bb7/sid-ogWrZ54IPOvz0IUJg,nFuqYZ6U2/sub/6168126",
+    "movie_type": [
+        "\u5947\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt5013056",
+    "title": {
+        "hk": "\u6566\u523b\u5c14\u514b",
+        "ch": "\u6566\u523b\u5c14\u514b",
+        "en": "Dunkirk"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5570bb9/sid-vhP2RwSi39yShRZXelxYupHm50d/sub/7184912",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u5386\u53f2",
+        "\u6218\u4e89"
+    ]
+}{
+    "imdb_id": "tt1985949",
+    "title": {
+        "hk": "\u6124\u6012\u9e1f\u5927\u7535\u5f71",
+        "ch": "\u6124\u6012\u7684\u5c0f\u9e1f",
+        "en": "The Angry Birds Movie"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f58b0bca/sid-Vxx9QU8mPNf-rs7YSdmEoW672qe/sub/6699649",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u52a8\u4f5c",
+        "\u52a8\u753b"
+    ]
+}{
+    "imdb_id": "tt2015381",
+    "title": {
+        "hk": "\u94f6\u6cb3\u5b88\u62a4\u961f",
+        "ch": "\u94f6\u6cb3\u62a4\u536b\u961f",
+        "en": "Guardians of the Galaxy"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f55f0bbc/sid-oBCaxkQ7mLYo8dIYGrb3BDw49Cf/sub/5919173",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt1389139",
+    "title": {
+        "hk": "\u60ca\u9b42\u5951\u7ea6",
+        "ch": "\u5f53\u6811\u679d\u6298\u65ad\u65f6",
+        "en": "When the Bough Breaks"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u60ac\u7591",
+        "\u60ca\u609a",
+        "\u6050\u6016"
+    ]
+}{
+    "imdb_id": "tt3748528",
+    "title": {
+        "hk": "\u4fa0",
+        "ch": "\u661f\u7403\u5927\u6218\u5916\u4f20\uff1a\u4fa0\u76d7\u4e00\u53f7",
+        "en": "Rogue One"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5690bc0/sid-r,0kV4hcI51V1n658lSgK97XlB9/sub/6937077",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt2404435",
+    "title": {
+        "hk": "\u4e03\u4fa0\u8361\u5bc7\u5fd7",
+        "ch": "\u8c6a\u52c7\u4e03\u86df\u9f99",
+        "en": "The Magnificent Seven"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5660bbc/sid-Ox5GtQkc13aNw-uzxTh,sYX4Gf3/sub/6972317",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u897f\u90e8",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt4196450",
+    "title": {
+        "hk": "\u56fd\u5bb6\u7684\u8bde\u751f",
+        "ch": "\u4e00\u4e2a\u56fd\u5bb6\u7684\u8bde\u751f",
+        "en": "The Birth of a Nation"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u4f20\u8bb0"
+    ]
+}{
+    "imdb_id": "tt2568862",
+    "title": {
+        "hk": "\u65b0\u4e09\u4e2a",
+        "ch": "\u4e09\u4e2a\u8001\u67aa\u624b",
+        "en": "Going in Style"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5570bc3/sid-34THR2BVHlWCWDFUQHd1LUO1NHe/sub/7039599",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u72af\u7f6a"
+    ]
+}{
+    "imdb_id": "tt1840309",
+    "title": {
+        "hk": "\u5206\u6b67\u8005\uff1a\u5f02\u7c7b\u53db\u9003",
+        "ch": "\u5206\u6b67\u8005\uff1a\u5f02\u7c7b\u89c9\u9192",
+        "en": "Divergent"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f53e0bae/sid-Hz6dmH,5CXdXFn8JYXzJ,Ryo-g1/sub/5941101",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u7231\u60c5",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt0108515",
+    "title": {
+        "hk": "",
+        "ch": "\u6218\u7565\u5ba4",
+        "en": "The War Room"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u7eaa\u5f55\u7247",
+        "\u5386\u53f2"
+    ]
+}{
+    "imdb_id": "tt0110357",
+    "title": {
+        "hk": "\u72ee\u5b50",
+        "ch": "\u72ee\u5b50\u738b",
+        "en": "The Lion King"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5760bc5/sid-zvSu3td7k8rQELzAibB4Jrf9J88/sub/5938667",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u52a8\u753b",
+        "\u5192\u9669",
+        "\u6b4c\u821e",
+        "\u5bb6\u5ead"
+    ]
+}{
+    "imdb_id": "tt2788710",
+    "title": {
+        "hk": "\u540d\u5634\u51fa\u4efb\u52a1",
+        "ch": "\u91c7\u8bbf",
+        "en": "The Interview"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f53d0bb7/sid-sNIuoihmY9WobDfOQ1l,-,XCFoe/sub/6029472",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u52a8\u4f5c"
+    ]
+}{
+    "imdb_id": "tt0107120",
+    "title": {
+        "hk": "\u795e\u732b",
+        "ch": "\u5973\u5deb\u4e5f\u75af\u72c2",
+        "en": "Hocus Pocus"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u559c\u5267",
+        "\u5bb6\u5ead",
+        "\u5947\u5e7b",
+        "\u6050\u6016"
+    ]
+}{
+    "imdb_id": "tt0097958",
+    "title": {
+        "hk": "National Lampoon's Christmas Vacat",
+        "ch": "\u75af\u72c2\u5723\u8bde\u5047\u671f",
+        "en": "National Lampoon's Christmas Vacation"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u559c\u5267"
+    ]
+}{
+    "imdb_id": "tt0120855",
+    "title": {
+        "hk": "\u4eba",
+        "ch": "\u6cf0\u5c71",
+        "en": "Tarzan"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5650bbd/sid-Rw9HZhvoKLIrjaPvV,,zHRppqj4/sub/5950890",
+    "movie_type": [
+        "\u52a8\u753b",
+        "\u5192\u9669",
+        "\u5267\u60c5",
+        "\u5bb6\u5ead"
+    ]
+}{
+    "imdb_id": "tt1065073",
+    "title": {
+        "hk": "\u5e74\u5c11\u65f6\u4ee3",
+        "ch": "\u5c11\u5e74\u65f6\u4ee3",
+        "en": "Boyhood"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5710bc5/sid-ff2IRSPlYVpYwZw0ZsRs4WeD3M7/sub/5934896",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u5bb6\u5ead"
+    ]
+}{
+    "imdb_id": "tt1670345",
+    "title": {
+        "hk": "\u975e\u5e38\u76d7",
+        "ch": "\u60ca\u5929\u9b54\u76d7\u56e2",
+        "en": "Now You See Me"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5380bb0/sid-cvEHiqiUn8tvNe4MVbYwogq9rud/sub/6069011",
+    "movie_type": [
+        "\u72af\u7f6a",
+        "\u60ac\u7591",
+        "\u5947\u5e7b"
+    ]
+}{
+    "imdb_id": "tt2325989",
+    "title": {
+        "hk": "Teen Beach Musi",
+        "ch": "\u9752\u6625\u6d77\u6ee9\u5927\u7535\u5f71",
+        "en": "Teen Beach Movie"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u6b4c\u821e",
+        "\u5bb6\u5ead"
+    ]
+}{
+    "imdb_id": "tt3498820",
+    "title": {
+        "hk": "\u7f8e\u56fd\u961f\u957f3",
+        "ch": "\u7f8e\u56fd\u961f\u957f3",
+        "en": "Captain America: Civil War"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f53c0bb5/sid-6VTIH0veNYWcmvtBPE8dZnGc,lf/sub/7136182",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt1468737",
+    "title": {
+        "hk": "",
+        "ch": "",
+        "en": "Stranger Things"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f55e0bbb/sid-5UzQQJcZSh4qKYoJdZx6YuIBZ-1/sub/6823942",
+    "movie_type": [
+        "\u5267\u60c5"
+    ]
+}{
+    "imdb_id": "tt1790809",
+    "title": {
+        "hk": "\u52a0\u52d2\u6bd4\u6d77\u76d7\uff1a\u6076\u7075\u542f\u822a",
+        "ch": "\u52a0\u52d2\u6bd4\u6d77\u76d75\uff1a\u6b7b\u65e0\u5bf9\u8bc1",
+        "en": "Pirates of the Caribbean: Dead Men Tell No Tales"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f53a0bb3/sid-TtawayhF6GMFnrr5XaUMvaDqU35/sub/7090415",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u5947\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt2820852",
+    "title": {
+        "hk": "\u72c2\u91ce\u65f6\u901f7",
+        "ch": "\u901f\u5ea6\u4e0e\u6fc0\u60c57",
+        "en": "Furious 7"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f53d0bb5/sid-NlGR2uOasbRnLcv1IYfkHdeJWBd/sub/6255073",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u72af\u7f6a",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt1462901",
+    "title": {
+        "hk": "\u51e0",
+        "ch": "\u8c01\u6765\u4e70\u6211\u7684\u5723\u8bde\u6811",
+        "en": "All Is Bright"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f57a0bc8/sid-22gL3iYv7RLfWKx7FVRsyxHVui9/sub/5962898",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u559c\u5267"
+    ]
+}{
+    "imdb_id": "tt1457767",
+    "title": {
+        "hk": "\u8be1\u5c4b\u60ca\u51f6\u5b9e\u5f55",
+        "ch": "\u62db\u9b42",
+        "en": "The Conjuring"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5740bbf/sid-ZmgPDqu2,zTpF356AsRKfQJGVg6/sub/5968181",
+    "movie_type": [
+        "\u60ac\u7591",
+        "\u60ca\u609a",
+        "\u6050\u6016"
+    ]
+}{
+    "imdb_id": "tt1293847",
+    "title": {
+        "hk": "\u6781\u9650\u7279\u5de5\uff1a\u7ec8",
+        "ch": "\u6781\u9650\u7279\u5de53\uff1a\u7ec8\u6781\u56de\u5f52",
+        "en": "xXx: Return of Xander Cage"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5730bbf/sid-EA8yIvQ7qX1CvsHI59rANJdYSr6/sub/6985208",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt2293640",
+    "title": {
+        "hk": "",
+        "ch": "\u5c0f\u9ec4\u4eba\u5927\u773c\u840c",
+        "en": "Minions"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f52c0bae/sid-P6TdEdMlDq0K-TsF7wzm2TSgBR8/sub/6244041",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u52a8\u753b"
+    ]
+}{
+    "imdb_id": "tt2554274",
+    "title": {
+        "hk": "\u8840\u8272\u5e84\u56ed",
+        "ch": "\u7329\u7ea2\u5c71\u5cf0",
+        "en": "Crimson Peak"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5460bb9/sid-HSEe7CSOIyCQwPVdeMuy9rAAyi4/sub/7137293",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u60ac\u7591",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt2126355",
+    "title": {
+        "hk": "\u52a0\u5dde\u5927\u5730\u9707",
+        "ch": "\u672b\u65e5\u5d29\u584c",
+        "en": "San Andreas"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f54f0bb9/sid-t996eTkID839iR8Ug81AGpjzpk5/sub/6383507",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u5192\u9669",
+        "\u707e\u96be"
+    ]
+}{
+    "imdb_id": "tt0052618",
+    "title": {
+        "hk": "",
+        "ch": "\u5bbe\u865a",
+        "en": "Ben-Hur"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f55a0bb9/sid-ho2c1yoapzpagXchaXLC154reg5/sub/5962244",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u52a8\u4f5c",
+        "\u5386\u53f2",
+        "\u6218\u4e89",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt0360717",
+    "title": {
+        "hk": "King Kong: The Eighth Wonder of the Wo",
+        "ch": "\u91d1\u521a",
+        "en": "King Kong"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5720bbd/sid-mp4A6NYeDEvESCsOYU3rJDo6y81/sub/5965911",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u5947\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt0087332",
+    "title": {
+        "hk": "\u9b54",
+        "ch": "\u6349\u9b3c\u6562\u6b7b\u961f",
+        "en": "Ghostbusters"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f54d0bb8/sid-e6dkJSLuCyRPyDc3IXH0i26ubPa/sub/5940265",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u79d1\u5e7b",
+        "\u5947\u5e7b"
+    ]
+}{
+    "imdb_id": "tt3799694",
+    "title": {
+        "hk": "\u5047\u4f1a\u5f81\u4fe1\u793e",
+        "ch": "\u8010\u6495\u4fa6\u63a2",
+        "en": "The Nice Guys"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5350bb0/sid-NtYZBQt1Aq-WaFi8lQ0xmJcDdcd/sub/7136321",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u52a8\u4f5c",
+        "\u72af\u7f6a"
+    ]
+}{
+    "imdb_id": "tt2709768",
+    "title": {
+        "hk": "Pet Pet\u5f53\u5bb6",
+        "ch": "\u7231\u5ba0\u5927\u673a\u5bc6",
+        "en": "The Secret Life of Pets"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f54f0bb6/sid-aR7tBBG,bhpsTX1z6GPltnhgF32/sub/6727214",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u52a8\u753b"
+    ]
+}{
+    "imdb_id": "tt1679335",
+    "title": {
+        "hk": "",
+        "ch": "\u9b54\u53d1\u7cbe\u7075",
+        "en": "Trolls"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5390bb2/sid-PqP6kvDZALLgucyInbCo5NIvD98/sub/7136341",
+    "movie_type": [
+        "\u52a8\u753b",
+        "\u5947\u5e7b",
+        "\u5192\u9669",
+        "\u6b4c\u821e"
+    ]
+}{
+    "imdb_id": "tt4154756",
+    "title": {
+        "hk": "",
+        "ch": "\u590d\u4ec7\u8005\u8054\u76df3\uff1a\u65e0\u9650\u6218\u4e89",
+        "en": "Avengers: Infinity War"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b"
+    ]
+}{
+    "imdb_id": "tt1029360",
+    "title": {
+        "hk": "\u51f6",
+        "ch": "\u9b3c\u9a71\u4eba",
+        "en": "Poltergeist"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f54a0bbe/sid-8hHhCX-32q995aHnxvrcfUstcF6/sub/6316759",
+    "movie_type": [
+        "\u60ca\u609a",
+        "\u6050\u6016"
+    ]
+}{
+    "imdb_id": "tt1798684",
+    "title": {
+        "hk": "\u9707\u64bc\u64c2\u53f0",
+        "ch": "\u94c1\u62f3",
+        "en": "Southpaw"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5260bb3/sid-xcsCSnFbfjLJAXMN5XvM45gg1-5/sub/6301457",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u52a8\u4f5c",
+        "\u8fd0\u52a8"
+    ]
+}{
+    "imdb_id": "tt2771200",
+    "title": {
+        "hk": "",
+        "ch": "",
+        "en": "Beauty and the Beast"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5920bc6/sid-WurC3lrqxL6RcdurNzNY81jpTR7/sub/6999444",
+    "movie_type": [
+        "\u7231\u60c5",
+        "\u5947\u5e7b",
+        "\u6b4c\u821e"
+    ]
+}{
+    "imdb_id": "tt0266543",
+    "title": {
+        "hk": "\u6d77",
+        "ch": "\u6d77\u5e95\u603b\u52a8\u5458",
+        "en": "Finding Nemo"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5600bc0/sid-iBEA,fQAB228EgAxkHuPeCmHGY0/sub/6298149",
+    "movie_type": [
+        "\u52a8\u753b",
+        "\u5192\u9669",
+        "\u559c\u5267",
+        "\u5bb6\u5ead"
+    ]
+}{
+    "imdb_id": "tt0848228",
+    "title": {
+        "hk": "",
+        "ch": "\u590d\u4ec7\u8005\u8054\u76df",
+        "en": "The Avengers"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f51c0bac/sid-b6m2zgGVPH3MueqgIDyKdtEeX15/sub/6121441",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5947\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt4178092",
+    "title": {
+        "hk": "\u4e0d\u80fd\u62c6\u7684\u793c\u5bc6",
+        "ch": "\u81f4\u547d\u793c\u7269",
+        "en": "The Gift"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5600bbc/sid-38jlj63R6kytUKlp8BD7NKGchaf/sub/5965028",
+    "movie_type": [
+        "\u60ac\u7591",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt0070909",
+    "title": {
+        "hk": "\u8840",
+        "ch": "\u897f\u90e8\u4e16\u754c",
+        "en": "Westworld"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5640bbe/sid-CVKNVv478Jg0hIKf9ylaZu8Fuu6/sub/6764356",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u60ca\u609a",
+        "\u897f\u90e8"
+    ]
+}{
+    "imdb_id": "tt3316948",
+    "title": {
+        "hk": "\u7f8e",
+        "ch": "\u5e9f\u67f4\u7279\u5de5",
+        "en": "American Ultra"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f55e0bbc/sid-81b74TdJfLB7Itv,K8GZfCAFcx7/sub/6578018",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u52a8\u4f5c"
+    ]
+}{
+    "imdb_id": "tt0439815",
+    "title": {
+        "hk": "\u5230",
+        "ch": "\u6495\u88c2\u4eba",
+        "en": "Slither"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5640bc2/sid-oka,CN1hz44CckLon2LNJH52vKf/sub/5935289",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u6050\u6016",
+        "\u79d1\u5e7b"
+    ]
+}{
+    "imdb_id": "tt2752772",
+    "title": {
+        "hk": "\u90aa\u70752",
+        "ch": "\u9669\u60762",
+        "en": "Sinister 2"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5660bc0/sid-sqGuRbNOHdOZtXK62MzMD73O0P1/sub/6819438",
+    "movie_type": [
+        "\u6050\u6016"
+    ]
+}{
+    "imdb_id": "tt1617661",
+    "title": {
+        "hk": "\u6728\u5347\u6218\u7eaa",
+        "ch": "\u6728\u661f\u4e0a\u884c",
+        "en": "Jupiter Ascending"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f53f0bb4/sid-RN7HwLNhPXxXKcy-lnPee60BDe6/sub/6174180",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt2006295",
+    "title": {
+        "hk": "33",
+        "ch": "\u5730\u5fc3\u8425\u6551",
+        "en": "The 33"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f54b0bbd/sid-OanrwfttIdBorfoTn1lEhxH7LL9/sub/6512958",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u4f20\u8bb0",
+        "\u5386\u53f2"
+    ]
+}{
+    "imdb_id": "tt1502712",
+    "title": {
+        "hk": "\u65b0\u795e",
+        "ch": "\u795e\u5947\u56db\u4fa02015",
+        "en": "Fantastic Four"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f53f0bb9/sid-vT,zjOEdphf1Q3PBvHSBaLU1rK4/sub/6432449",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt1398426",
+    "title": {
+        "hk": "\u518d",
+        "ch": "\u51b2\u51fa\u5eb7\u666e\u987f",
+        "en": "Straight Outta Compton"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u4f20\u8bb0",
+        "\u97f3\u4e50"
+    ]
+}{
+    "imdb_id": "tt0088763",
+    "title": {
+        "hk": "\u56de\u5230\u672a\u6765",
+        "ch": "\u56de\u5230\u672a\u6765",
+        "en": "Back to the Future"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5340bb4/sid-YPTyOEmcd8yz-2MIluCw,OfVacc/sub/7009191",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt1915581",
+    "title": {
+        "hk": "\u821e\u68cd\u4ff1\u4e50\u90e8",
+        "ch": "\u9b54\u529b\u9ea6\u514b",
+        "en": "Magic Mike"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5590bbe/sid-V,hG2ifnmtqMEKXyqhVZp6ZnHIb/sub/5960089",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u559c\u5267",
+        "\u60c5\u8272"
+    ]
+}{
+    "imdb_id": "tt1355644",
+    "title": {
+        "hk": "\u592a\u7a7a\u6f5c\u822a\u8005",
+        "ch": "\u592a\u7a7a\u65c5\u5ba2",
+        "en": "Passengers"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f54f0bb8/sid-XgW5EJ2UWDhBLty3DOaOnppvmi5/sub/6904264",
+    "movie_type": [
+        "\u5192\u9669",
+        "\u79d1\u5e7b"
+    ]
+}{
+    "imdb_id": "tt4263482",
+    "title": {
+        "hk": "The Wi",
+        "ch": "\u5973\u5deb",
+        "en": "The Witch"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5810bc4/sid-Htjz5KgcAFqFE0Omaq-P,WUd5-a/sub/5959672",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u6050\u6016"
+    ]
+}{
+    "imdb_id": "tt2184339",
+    "title": {
+        "hk": "\u56fd\u5b9a\u6740\u622e\u65e5(\u53f0",
+        "ch": "\u4eba\u7c7b\u6e05\u9664\u8ba1\u5212",
+        "en": "The Purge"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5570bbe/sid-fCTDPa0gbWaOzXEvzjGxh3snwSd/sub/6086593",
+    "movie_type": [
+        "\u79d1\u5e7b",
+        "\u60ca\u609a",
+        "\u6050\u6016"
+    ]
+}{
+    "imdb_id": "tt3783958",
+    "title": {
+        "hk": "\u661f\u58f0\u68a6\u91cc\u4eba",
+        "ch": "\u7231\u4e50\u4e4b\u57ce",
+        "en": "La La Land"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5980bcf/sid-,0MqyRx9AlDSNgIDopYkNWQoo3e/sub/6888699",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u7231\u60c5",
+        "\u6b4c\u821e"
+    ]
+}{
+    "imdb_id": "tt2446042",
+    "title": {
+        "hk": "\u5373\u523b\u6551\u63f43",
+        "ch": "\u98d3\u98ce\u8425\u65513",
+        "en": "Taken 3"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5140bac/sid-WRSUDzLOdUc483C7,vhyKAExGG4/sub/6020524",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u72af\u7f6a",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt2948356",
+    "title": {
+        "hk": "\u4f18\u517d\u5927\u90fd\u4f1a",
+        "ch": "\u75af\u72c2\u52a8\u7269\u57ce",
+        "en": "Zootopia"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5400bb6/sid-WGUM,EVE0hEBCOdEyyVHdLptNad/sub/6632066",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u52a8\u753b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt0107290",
+    "title": {
+        "hk": "Jurassic Park",
+        "ch": "\u4f8f\u7f57\u7eaa\u516c\u56ed",
+        "en": "Jurassic Park"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5840bc7/sid-aUZGvQphsbSr9pRca8IXkCQKyu8/sub/5965993",
+    "movie_type": [
+        "\u79d1\u5e7b",
+        "\u60ca\u609a",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt0105481",
+    "title": {
+        "hk": "\u6709",
+        "ch": "\u738b\u724c\u5927\u59d0\u5927",
+        "en": "Straight Talk"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u559c\u5267"
+    ]
+}{
+    "imdb_id": "tt4630562",
+    "title": {
+        "hk": "\u72c2\u91ce\u65f6\u901f8",
+        "ch": "\u901f\u5ea6\u4e0e\u6fc0\u60c58",
+        "en": "The Fate of the Furious"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5860bc3/sid-orMSqDY-IdH9ntslISsgqEJT8F3/sub/6983970",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u72af\u7f6a"
+    ]
+}{
+    "imdb_id": "tt0470752",
+    "title": {
+        "hk": "\u4eba\u9020\u610f\u8bc6",
+        "ch": "\u673a\u68b0\u59ec",
+        "en": "Ex Machina"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5380bb0/sid-TR8zKu3L7NBbjDBZoqaC,d1rTtd/sub/6175040",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u79d1\u5e7b",
+        "\u60ac\u7591",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt2562232",
+    "title": {
+        "hk": "\u98de\u9e1f\u4fa0",
+        "ch": "\u9e1f\u4eba",
+        "en": "Birdman"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5250bb3/sid-x2Q7qh9wD2mki6ebSNZiPkxl1Na/sub/6033419",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u559c\u5267"
+    ]
+}{
+    "imdb_id": "tt0217869",
+    "title": {
+        "hk": "\u60ca",
+        "ch": "\u4e0d\u6b7b\u52ab",
+        "en": "Unbreakable"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5840bc9/sid-xMDNhTcrIaknSxlxSoE4MGJewib/sub/5948886",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u79d1\u5e7b",
+        "\u60ac\u7591",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt2199571",
+    "title": {
+        "hk": "\u4e00\u591c\u72c2\u9003",
+        "ch": "\u6697\u591c\u9010\u4ec7",
+        "en": "Run All Night"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5260bae/sid-aPLZkj3kcqAkwA3CrZgBRhW3P,4/sub/6213450",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u52a8\u4f5c",
+        "\u72af\u7f6a",
+        "\u60ac\u7591",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt1791528",
+    "title": {
+        "hk": "\u672c",
+        "ch": "\u6027\u672c\u6076",
+        "en": "Inherent Vice"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f52e0bb7/sid-luAsKdLEArsDARZ2-tqZ6dtNDZ3/sub/6114387",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u559c\u5267",
+        "\u72af\u7f6a"
+    ]
+}{
+    "imdb_id": "tt2267998",
+    "title": {
+        "hk": "\u5931\u8e2a",
+        "ch": "\u6d88\u5931\u7684\u7231\u4eba",
+        "en": "Gone Girl"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f52a0bb0/sid-hOnQwyU3Ys55JKkeejGliGk6m86/sub/6053333",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u72af\u7f6a",
+        "\u60ac\u7591",
+        "\u60ca\u609a"
+    ]
+}{
+    "imdb_id": "tt1790864",
+    "title": {
+        "hk": "\u8ff7",
+        "ch": "\u79fb\u52a8\u8ff7\u5bab",
+        "en": "The Maze Runner"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f57a0bbd/sid-gxl7GwujaNXiUaNHiC,s4ANeI2f/sub/5978700",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b"
+    ]
+}{
+    "imdb_id": "tt5071886",
+    "title": {
+        "hk": "\u71c3\u70e7",
+        "ch": "\u5361\u5df4\u91cc",
+        "en": "Kabali"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u52a8\u4f5c",
+        "\u72af\u7f6a"
+    ]
+}{
+    "imdb_id": "tt0185937",
+    "title": {
+        "hk": "\u6b7b\u4ea1\u4e60\u4f5c",
+        "ch": "\u5973\u5deb\u5e03\u83b1\u5c14",
+        "en": "The Blair Witch Project"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5780bc2/sid-bQlTOI1BZodbyNSTqzN0W6TeMd3/sub/6778193",
+    "movie_type": [
+        "\u6050\u6016",
+        "\u60ac\u7591"
+    ]
+}{
+    "imdb_id": "tt3065204",
+    "title": {
+        "hk": "\u8be1\u5c4b\u60ca\u51f6\u5b9e\u5f552",
+        "ch": "\u62db\u9b422",
+        "en": "The Conjuring 2"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f57b0bc4/sid-eB0yiVsXYSGdVQrMOlvl4M0IzU9/sub/6749854",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u60ac\u7591",
+        "\u6050\u6016"
+    ]
+}{
+    "imdb_id": "tt2724064",
+    "title": {
+        "hk": "\u5929",
+        "ch": "\u9ca8\u5377\u98ce",
+        "en": "Sharknado"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f55a0bbc/sid-8-GwtFRSK,Zj2hCWc2l-hFqFgn8/sub/5943509",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u79d1\u5e7b",
+        "\u6050\u6016"
+    ]
+}{
+    "imdb_id": "tt3501632",
+    "title": {
+        "hk": "\u96f7\u795e\u7d22\u5c143\uff1a\u8bf8\u795e\u9ec4\u660f",
+        "ch": "\u96f7\u795e3\uff1a\u8bf8\u795e\u9ec4\u660f",
+        "en": "Thor: Ragnarok"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f52f0bb3/sid-SlTPuuPurvioKeHCAs9lcknFVj4/sub/7160219",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u5947\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt0810900",
+    "title": {
+        "hk": "\u9ad8\u6821\u97f3",
+        "ch": "\u6b4c\u821e\u9752\u66252",
+        "en": "High School Musical"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5690bbe/sid-IJP60PQyCrnr7z,26DedBjk,Zy7/sub/5953834",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u559c\u5267",
+        "\u5bb6\u5ead"
+    ]
+}{
+    "imdb_id": "tt0077631",
+    "title": {
+        "hk": "\u706b",
+        "ch": "\u6cb9\u8102",
+        "en": "Grease"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5860bc9/sid-hjVB4AA1WIiOgpktzwpeajUtJPc/sub/5959758",
+    "movie_type": [
+        "\u6b4c\u821e",
+        "\u7231\u60c5"
+    ]
+}{
+    "imdb_id": "tt2823054",
+    "title": {
+        "hk": "\u5a5a\u793c\u73a9\u5f88\u5927",
+        "ch": "\u7f51\u8058\u5973\u4f34",
+        "en": "Mike and Dave Need Wedding Dates"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5530bba/sid-xHjaGqgpgxCwPh423fSymzxPiV6/sub/6833409",
+    "movie_type": [
+        "\u559c\u5267",
+        "\u7231\u60c5",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt1951265",
+    "title": {
+        "hk": "\u9965\u997f\u6e38\u620f\uff1a\u81ea\u7531\u5e7b\u68a6I",
+        "ch": "\u9965\u997f\u6e38\u620f3\uff1a\u5632\u7b11\u9e1f(\u4e0a)",
+        "en": "The Hunger Games: Mockingjay \u2013 Part 1"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f57c0bc5/sid-uN9Woeisy-e29MMMpun9sCMiIJ7/sub/5993396",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5192\u9669"
+    ]
+}{
+    "imdb_id": "tt4257926",
+    "title": {
+        "hk": "\u5929\u5802\u5947\u6108\u8bb0",
+        "ch": "\u5929\u5802\u5947\u8ff9",
+        "en": "Miracles from Heaven"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u5267\u60c5"
+    ]
+}{
+    "imdb_id": "tt0116629",
+    "title": {
+        "hk": "ID4\u661f\u9645\u7ec8\u7ed3\u8005",
+        "ch": "\u72ec\u7acb\u65e5",
+        "en": "Independence Day"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f56d0bbf/sid-wnYG64V4VDuPotM64r0zy5nEX18/sub/6748391",
+    "movie_type": [
+        "\u52a8\u4f5c",
+        "\u79d1\u5e7b",
+        "\u5192\u9669",
+        "\u707e\u96be"
+    ]
+}{
+    "imdb_id": "tt0107048",
+    "title": {
+        "hk": "\u4eca\u5929\u6682\u65f6\u505c\u6b62",
+        "ch": "\u571f\u62e8\u9f20\u4e4b\u65e5",
+        "en": "Groundhog Day"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f56e0bbd/sid-jDJ1JjmOt,iAj2Dp-YtHeC0stbf/sub/5955831",
+    "movie_type": [
+        "\u5267\u60c5",
+        "\u559c\u5267",
+        "\u7231\u60c5",
+        "\u5947\u5e7b"
+    ]
+}{
+    "imdb_id": "tt3882082",
+    "title": {
+        "hk": "\u5c38\u5b69",
+        "ch": "\u7075\u5076\u5951\u7ea6",
+        "en": "The Boy"
+    },
+    "zipUrl": "http://dl.opensubtitles.org/en/download/src-api/vrf-f5560bb7/sid-2t1n-ZCgflk0fR9j26V4U8OENp2/sub/5942460",
+    "movie_type": [
+        "\u6050\u6016"
+    ]
+}{
+    "imdb_id": "tt0073629",
+    "title": {
+        "hk": "\u6d1b\u57fa\u6050",
+        "ch": "\u6d1b\u57fa\u6050\u6016\u79c0",
+        "en": "The Rocky Horror Picture Show"
+    },
+    "zipUrl": null,
+    "movie_type": [
+        "\u559c\u5267",
+        "\u6b4c\u821e"
+    ]
+}
